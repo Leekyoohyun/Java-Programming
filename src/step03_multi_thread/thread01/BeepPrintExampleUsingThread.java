@@ -18,6 +18,7 @@ public class BeepPrintExampleUsingThread {
         
         for(int i=0; i<5; i++){
             System.out.print("띵");
+            try{ Thread.sleep(500); } catch (Exception e){};
         }
     }
 }
