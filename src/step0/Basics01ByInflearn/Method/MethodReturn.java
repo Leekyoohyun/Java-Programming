@@ -1,4 +1,4 @@
-package Basics01ByInflearn.Method;
+package step0.Basics01ByInflearn.Method;
 
 public class MethodReturn {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Basics01ByInflearn.Basics;
+package step0.Basics01ByInflearn.Basics;
 import java.util.Scanner;
 public class ScoreEx {
     public static void main(String[] args) {

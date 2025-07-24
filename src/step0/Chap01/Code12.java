@@ -1,4 +1,4 @@
-package Chap01;
+package step0.Chap01;
 import java.util.Scanner;
 
 public class Code12 {

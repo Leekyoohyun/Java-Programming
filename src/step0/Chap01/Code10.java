@@ -1,4 +1,4 @@
-package Chap01;
+package step0.Chap01;
 
 public class Code10 {
     public static void main(String[] args) {

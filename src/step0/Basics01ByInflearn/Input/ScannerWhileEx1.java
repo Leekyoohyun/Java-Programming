@@ -1,4 +1,4 @@
-package Basics01ByInflearn.Input;
+package step0.Basics01ByInflearn.Input;
 
 import java.util.Scanner;
 

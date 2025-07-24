@@ -1,4 +1,4 @@
-package Basics01ByInflearn.Arrays;
+package step0.Basics01ByInflearn.Arrays;
 
 public class ArrayDim3 {
     public static void main(String[] args) {

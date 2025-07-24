@@ -1,4 +1,4 @@
-package Basics01ByInflearn.Enhanced_For_Loop;
+package step0.Basics01ByInflearn.Enhanced_For_Loop;
 
 public class EnhancedFor1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Chap01;
+package step0.Chap01;
 import java.util.Scanner;
 //  사용자로부터 n개의 정수를 입력받고, 정수가 하나씩 입력될 때 마다 현재까지 입력된 정수들을
 // 오름차순으로 정렬하는 프로그램
