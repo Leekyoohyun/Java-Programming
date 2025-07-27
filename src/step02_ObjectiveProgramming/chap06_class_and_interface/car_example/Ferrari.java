@@ -5,5 +5,6 @@ public class Ferrari {
         Car f40 = new Car("F40", 0);
         f40.go(150);
         f40.stop();
+        System.out.println(f40.getCarName());
     }
 }

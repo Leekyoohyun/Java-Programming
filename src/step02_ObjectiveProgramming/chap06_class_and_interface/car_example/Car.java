@@ -25,4 +25,8 @@ public class Car {
         this.velocity = 0;
         System.out.println(this.carName + "가 멈춥니다.");
     }
+
+    public String getCarName(){
+        return this.carName;
+    }
 }

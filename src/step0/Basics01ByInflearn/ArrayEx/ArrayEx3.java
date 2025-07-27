@@ -1,4 +1,4 @@
-package Basics01ByInflearn.ArrayEx;
+package step0.Basics01ByInflearn.ArrayEx;
 
 import java.util.Scanner;
 

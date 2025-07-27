@@ -1,4 +1,4 @@
-package Basics01ByInflearn.Basics;
+package step0.Basics01ByInflearn.Basics;
 
 public class OperationEx1 {
     public static void main(String[] args) {

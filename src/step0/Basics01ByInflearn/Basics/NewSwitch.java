@@ -1,4 +1,4 @@
-package Basics01ByInflearn.Basics;
+package step0.Basics01ByInflearn.Basics;
 
 public class NewSwitch {
     public static void main(String[] args) {
